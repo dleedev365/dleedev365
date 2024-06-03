@@ -12,5 +12,5 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01fdb4d93ad88633de)
 
 
-#### They said, "1 leetcode a day keeps unemployment away..." Really?
+#### They said, "1 leetcode a day keeps unemployment away..."
 ![Leetcode Stats](https://leetcard.jacoblin.cool/dlee0528?ext=heatmap)
